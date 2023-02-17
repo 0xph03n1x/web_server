@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ph03n1x\web_server\Web_Server\main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Web_Server.vcxproj -> C:\Users\ph03n1x\web_server\Web_Server\x64\Debug\BarebonesServer.exe
